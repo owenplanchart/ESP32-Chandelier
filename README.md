@@ -1,6 +1,10 @@
 # ESP32-Chandelier
 ESP32 Chandelier
 
+// This project uses an ESP32 Huzzah board to control a drone balloon with an LED strip and a BNO055 sensor to monitor rotation. It connects to Unity via OSC. 
+
+September 2020
+
 // OSC IMU
 // Nathan Adams / Atau Tanaka - Goldsmiths, University of London
 // 2020
