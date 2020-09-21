@@ -1,5 +1,5 @@
-#define SECRET_SSID "EE-Hub-7gD7"
-#define SECRET_PASSWORD "REST-reset-raw"
+#define SECRET_SSID "your internet"
+#define SECRET_PASSWORD "your password"
 //#define SECRET_IP  192, 168, 1, 85 // this is the IPaddress for the MacPro
 #define SECRET_IP  192, 168, 1, 95 // this is the IP address for the laptop
 //#define SECRET_IP  192, 168, 1, 121 // this is the IPaddress for the Iphone
